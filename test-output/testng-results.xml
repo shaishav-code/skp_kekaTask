@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-05-12T13:57:58 IST" name="Default suite" finished-at="2023-05-12T13:59:29 IST" duration-ms="90787">
+    <groups>
+    </groups>
+    <test started-at="2023-05-12T13:57:58 IST" name="Default test" finished-at="2023-05-12T13:59:29 IST" duration-ms="90787">
+      <class name="testcase.TC_Login">
+        <test-method is-config="true" signature="initializeDriver()[pri:0, instance:testcase.TC_Login@d5b810e]" started-at="2023-05-12T13:57:58 IST" name="initializeDriver" finished-at="2023-05-12T13:58:06 IST" duration-ms="8368" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeDriver -->
+        <test-method is-config="true" signature="object()[pri:0, instance:testcase.TC_Login@d5b810e]" started-at="2023-05-12T13:58:06 IST" name="object" finished-at="2023-05-12T13:58:07 IST" duration-ms="106" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- object -->
+        <test-method signature="BasePageNavigation()[pri:0, instance:testcase.TC_Login@d5b810e]" started-at="2023-05-12T13:58:07 IST" name="BasePageNavigation" finished-at="2023-05-12T13:59:29 IST" duration-ms="82230" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BasePageNavigation -->
+        <test-method is-config="true" signature="closedata()[pri:0, instance:testcase.TC_Login@d5b810e]" started-at="2023-05-12T13:59:29 IST" name="closedata" finished-at="2023-05-12T13:59:29 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closedata -->
+      </class> <!-- testcase.TC_Login -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
